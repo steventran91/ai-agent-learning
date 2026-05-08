@@ -36,7 +36,7 @@ Topics to cover:
 - [x] Getting structured JSON output reliably
 - [x] XML tags in prompts (`<instructions>`, `<examples>`, `<context>`)
 - [x] Prompt testing and iteration
-- [ ] Hallucination and how to reduce it
+- [x] Hallucination and how to reduce it
 
 Milestone project: **Document Q&A system** — paste any document, ask questions about it
 reliably without hallucination.

@@ -31,9 +31,9 @@ to LLMs, the Anthropic API, MCP, and agent architecture.
 
 Topics to cover:
 - [x] Tokens, context windows, and temperature
-- [ ] System prompts vs user messages
-- [ ] Zero-shot, few-shot, and chain-of-thought prompting
-- [ ] Getting structured JSON output reliably
+- [x] System prompts vs user messages
+- [x] Zero-shot, few-shot, and chain-of-thought prompting
+- [x] Getting structured JSON output reliably
 - [ ] XML tags in prompts (`<instructions>`, `<examples>`, `<context>`)
 - [ ] Prompt testing and iteration
 - [ ] Hallucination and how to reduce it
@@ -173,12 +173,12 @@ A quick-reference glossary. Claude can expand on any of these on request.
 
 Complete these before starting Phase 1:
 
-- [ ] Python 3.10+ installed (`python --version`)
-- [ ] Anthropic SDK installed (`pip install anthropic`)
-- [ ] API key set as environment variable (`export ANTHROPIC_API_KEY=sk-ant-...`)
-- [ ] Claude Code installed (`npm install -g @anthropic-ai/claude-code`)
-- [ ] This project folder open in Claude Code
-- [ ] `notes/learnings.md` created (write one thing you learn each session)
+- [x] Python 3.10+ installed (`python --version`)
+- [x] Anthropic SDK installed (`pip install anthropic`)
+- [x] API key set as environment variable (`export ANTHROPIC_API_KEY=sk-ant-...`)
+- [x] Claude Code installed (`npm install -g @anthropic-ai/claude-code`)
+- [x] This project folder open in Claude Code
+- [x] `notes/learnings.md` created (write one thing you learn each session)
 
 To verify setup, ask Claude: `"Run my first API call and show me the output"`
 

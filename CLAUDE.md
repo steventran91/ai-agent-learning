@@ -93,13 +93,13 @@ Milestone projects (pick one or more):
 Update this section as you complete topics. Claude will use it to know where you are.
 
 ```
-Phase 1: [ ] Not started
-Phase 2: [ ] Not started
-Phase 3: [ ] Not started  ← you are here (reading this file = first step of Phase 3!)
+Phase 1: [x] Complete
+Phase 2: [ ] Not started  ← you are here
+Phase 3: [ ] Not started
 Phase 4: [ ] Not started
 
-Last session: Getting set up, exploring CLAUDE.md
-Next task:    Start Phase 1 — understand tokens and make your first API call
+Last session: Completed all Phase 1 topics and milestone project (Document Q&A)
+Next task:    Start Phase 2 — tool definitions and the agent loop
 ```
 
 ---

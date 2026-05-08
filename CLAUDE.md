@@ -34,8 +34,8 @@ Topics to cover:
 - [x] System prompts vs user messages
 - [x] Zero-shot, few-shot, and chain-of-thought prompting
 - [x] Getting structured JSON output reliably
-- [ ] XML tags in prompts (`<instructions>`, `<examples>`, `<context>`)
-- [ ] Prompt testing and iteration
+- [x] XML tags in prompts (`<instructions>`, `<examples>`, `<context>`)
+- [x] Prompt testing and iteration
 - [ ] Hallucination and how to reduce it
 
 Milestone project: **Document Q&A system** — paste any document, ask questions about it

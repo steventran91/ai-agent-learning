@@ -30,7 +30,7 @@ to LLMs, the Anthropic API, MCP, and agent architecture.
 **Goal:** Understand how LLMs work and write reliable prompts
 
 Topics to cover:
-- [ ] Tokens, context windows, and temperature
+- [x] Tokens, context windows, and temperature
 - [ ] System prompts vs user messages
 - [ ] Zero-shot, few-shot, and chain-of-thought prompting
 - [ ] Getting structured JSON output reliably

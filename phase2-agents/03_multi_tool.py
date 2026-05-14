@@ -169,3 +169,7 @@ run_agent("Should I bring an umbrella to my 2pm meeting today? Check the weather
 print("\n" + "=" * 50)
 print("TEST 5: No tool needed")
 run_agent("What's the capital of Japan?", system_prompt)
+
+print("\n" + "=" * 50)
+print("TEST 6: Calculate tool")
+run_agent("What is 100 times 34? then divide that by 6. What's the result?", system_prompt)

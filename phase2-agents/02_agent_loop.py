@@ -161,6 +161,14 @@ print("\n" + "=" * 50)
 print("TEST 3: Agent chooses the right tool")
 run_agent("How many words are in this sentence: 'The quick brown fox jumps over the lazy dog'? Then tell me what 10% of that word count is.")
 
+
+# ─────────────────────────────────────────────
+# Inspect the raw message history
+# ─────────────────────────────────────────────
+print("\n" + "=" * 50)
+print("RAW MESSAGE HISTORY")
 history = run_agent("What is 347 multiplied by 19?")
+print("\n--- Full message history ---")
+print(json.dumps(history, indent=2, default=str))
 print("\n--- Full message history ---")
 print(json.dumps(history, indent=2, default=str))
